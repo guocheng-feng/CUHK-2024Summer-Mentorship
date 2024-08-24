@@ -5,6 +5,6 @@ This github repository contains information about codes, reports, and datasets r
 ## Mentorship Project
 - The original dataset:
 - The original daataset paper:
-- Our processed dataset: https://huggingface.co/datasets/Matthewfung/24Summer_RA/tree/main
+- Our processed dataset: [The HuggingFace Dataset](https://huggingface.co/datasets/Matthewfung/24Summer_RA/tree/main)
 ## Job Ads Extraction Project
 
