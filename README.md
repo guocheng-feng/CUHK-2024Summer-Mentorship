@@ -1,7 +1,12 @@
 # CUHK-2024Summer-Mentorship
 
 ## Meta Information
-This github repository contains information about codes, reports, and datasets regarding the mentotship project and job ads extraction project. 
+This github repository contains information about codes, reports, and datasets regarding the mentotship project and job ads extraction project.
+
+### Literature
+
+
+
 ## Mentorship Project
 - The original dataset:
 - The original daataset paper:
