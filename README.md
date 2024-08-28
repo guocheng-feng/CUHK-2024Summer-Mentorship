@@ -1,7 +1,7 @@
 # CUHK-2024Summer-Mentorship
 
 ## Meta Information
-This github repository contains information about codes, reports, and datasets regarding the mentotship project and job ads extraction project.
+This github repository contains information about codes and datasets regarding the mentotship project and job ads extraction project.
 
 ### Related Literature
 - [Diversifying the Professoriate by Hofstra et al.](https://journals.sagepub.com/doi/full/10.1177/23780231221085118)
