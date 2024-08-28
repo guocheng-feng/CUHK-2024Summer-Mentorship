@@ -29,4 +29,5 @@ This github repository contains information about codes, reports, and datasets r
 ## Job Ads Extraction Project
 
 ### Files and Folders
-
+- ***Job Ads Extraction/***: This folder contains scripts for extracting major requirements in job Ads.
+    - ***Job_Ads_Extraction.ipynb***: This notebook compares the performances of different Large Language Models on extracting information related to major requirements .
