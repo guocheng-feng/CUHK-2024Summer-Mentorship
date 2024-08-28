@@ -9,7 +9,7 @@ This github repository contains information about codes, reports, and datasets r
 
 ## Mentorship Project
 - The original dataset:
-- The original daataset paper:
+- The original dataset paper:
 - Our processed dataset: [The HuggingFace Dataset](https://huggingface.co/datasets/Matthewfung/24Summer_RA/tree/main)
 
 ### Files and Folders
